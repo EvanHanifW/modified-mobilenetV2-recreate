@@ -1,4 +1,4 @@
-# modified-mobilenetV2-recreate
+# modified-mobilenetV2-recreate-for-covid19-classification
 Article COVID-19 Detection Using Deep Learning Algorithm on Chest X-ray Images model recreate
 
 ## Dataset source:
